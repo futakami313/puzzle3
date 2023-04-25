@@ -1,17 +1,9 @@
 @charset "utf-8";
-.wrapper{
+.wrappar{
   width: 400px;
-  height: 450px;
-  float:left
-}
-
-.header{
-  width: 400px;
-  height: 100px;
 }
 
 .red-box{
-  width: 400px;
   height: 100px;
   background: #ff0000;
   position: relative;
@@ -73,7 +65,6 @@
 }
 
 .yellow-box {
-  width: 400px;
   height: 100px;
   background: #ffe600;
 }
